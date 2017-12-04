@@ -1,13 +1,13 @@
-# Data Driven UX with React
+# Data Driven UX - Part 1
 
 ## Getting Started
 
-This post is the beginning of a series about creating Data Driven UX with React.  Over the course of the series, we will iterate over a basic example application until we have a generic React component that we can use in any project to easily configure Data Driven UX.  The source code for this post is found in [a Github repository](https://github.com/chris-wall/data-driven-ui-part-1)
+This post is the beginning of a series about creating Data Driven UX.  Over the course of the series, we will iterate over a basic example application until we have a generic React component that we can use in any project to easily configure Data Driven UX.  The source code for this post is found in [a Github repository](https://github.com/chris-wall/data-driven-ux-part-1)
 
 The posts in this series are:
 
-- [Data Driven UX with React](https://github.com/chris-wall/data-driven-ui-part-1)
-- [Serving the Users](https://github.com/chris-wall/data-driven-ui-part-2)
+- [Getting to Know React](https://github.com/chris-wall/data-driven-ux-part-1)
+- [Play Pretend](https://github.com/chris-wall/data-driven-ux-part-2)
 - HATEOAS for a Configurable UI
 - HATEOAS as Security Mechanism
 - Make Reusable Parts
@@ -913,7 +913,7 @@ export default connect(mapStateToProps, mapDispatchToProps)(ToDos);
 ```
 ## Wrapping It All Up
 
-You should now have an application that works!  You can view, add, modify, and delete both Notes and ToDos.  But if we want the data to persist beyond a page refresh and be able to share the data with others, we need to add a server based storage mechanism.  In the next installment, we will create a "serverless function" on [now.sh](https://now.sh) for just such a purpose.
+You should now have an application that works!  You can view, add, modify, and delete both Notes and ToDos.  But if we want the data to persist beyond a page refresh and be able to share the data with others, we need to add a server based storage mechanism.  In the next installment, we will look at how to integrate with the server side.
 
 ## Stay Tuned
 
@@ -921,8 +921,8 @@ More posts will be coming in this series shortly!
 
 The posts in this series are:
 
-- [Data Driven UX with React](https://github.com/chris-wall/data-driven-ui-part-1)
-- [Serving The Users](https://github.com/chris-wall/data-driven-ui-part-2)
+- [Getting to Know React](https://github.com/chris-wall/data-driven-ux-part-1)
+- [Play Pretend](https://github.com/chris-wall/data-driven-ux-part-2)
 - HATEOAS for a Configurable UI
 - HATEOAS as Security Mechanism
 - Make Reusable Parts
