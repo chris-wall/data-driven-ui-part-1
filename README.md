@@ -2,12 +2,12 @@
 
 ## Getting Started
 
-This post is the beginning of a series about creating Data Driven UX with React.  Over the course of the series, we will iterate over a basic example application until we have a generic React component that we can use in any project to easily configure Data Driven UX.  The source code for this post is found in [a Github repository]()
+This post is the beginning of a series about creating Data Driven UX with React.  Over the course of the series, we will iterate over a basic example application until we have a generic React component that we can use in any project to easily configure Data Driven UX.  The source code for this post is found in [a Github repository](https://github.com/chris-wall/data-driven-ui-part-1)
 
 The posts in this series are:
 
-- [Data Driven UX with React](#)
-- [Serving the Users](#)
+- [Data Driven UX with React](https://github.com/chris-wall/data-driven-ui-part-1)
+- [Serving the Users](https://github.com/chris-wall/data-driven-ui-part-2)
 - HATEOAS for a Configurable UI
 - HATEOAS as Security Mechanism
 - Make Reusable Parts
@@ -32,6 +32,7 @@ Let’s take a look at a basic React application.  If you are not familiar with 
 First, we need to install a couple prerequisites to make this go more easily - Yarn and Create React App.  If you don't already have these installedType each of these lines into your command prompt:
 
 `npm i -g yarn`
+
 `npm i -g create-react-app`
 
 To create the application shell, we can lean on the wonderful Create React App CLI tool.  Navigate to a folder you want to use for your tutorials (e.g. `%USERPROFILE%\data-drive-ux`) and enter `create-react-app data-driven-ux-part-1` and wait for it to finish setting up your application.
@@ -920,8 +921,8 @@ More posts will be coming in this series shortly!
 
 The posts in this series are:
 
-- [Data Driven UX with React](#)
-- [Serving The Users](#)
+- [Data Driven UX with React](https://github.com/chris-wall/data-driven-ui-part-1)
+- [Serving The Users](https://github.com/chris-wall/data-driven-ui-part-2)
 - HATEOAS for a Configurable UI
 - HATEOAS as Security Mechanism
 - Make Reusable Parts
